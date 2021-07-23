@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/erickkauanrdc.github.io/digidex-react/static/css/main.bb1f55d8.chunk.css",
+    "main.js": "/erickkauanrdc.github.io/digidex-react/static/js/main.f2eca353.chunk.js",
+    "main.js.map": "/erickkauanrdc.github.io/digidex-react/static/js/main.f2eca353.chunk.js.map",
+    "runtime-main.js": "/erickkauanrdc.github.io/digidex-react/static/js/runtime-main.be4d9a13.js",
+    "runtime-main.js.map": "/erickkauanrdc.github.io/digidex-react/static/js/runtime-main.be4d9a13.js.map",
+    "static/js/2.92b749a1.chunk.js": "/erickkauanrdc.github.io/digidex-react/static/js/2.92b749a1.chunk.js",
+    "static/js/2.92b749a1.chunk.js.map": "/erickkauanrdc.github.io/digidex-react/static/js/2.92b749a1.chunk.js.map",
+    "index.html": "/erickkauanrdc.github.io/digidex-react/index.html",
+    "static/css/main.bb1f55d8.chunk.css.map": "/erickkauanrdc.github.io/digidex-react/static/css/main.bb1f55d8.chunk.css.map",
+    "static/js/2.92b749a1.chunk.js.LICENSE.txt": "/erickkauanrdc.github.io/digidex-react/static/js/2.92b749a1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/erickkauanrdc.github.io/digidex-react/static/media/DigimonBasic.a9e7956a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be4d9a13.js",
+    "static/js/2.92b749a1.chunk.js",
+    "static/css/main.bb1f55d8.chunk.css",
+    "static/js/main.f2eca353.chunk.js"
+  ]
+}
