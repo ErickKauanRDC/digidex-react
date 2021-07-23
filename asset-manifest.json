@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digidex-react/static/css/main.b3bc6fa3.chunk.css",
+    "main.js": "/digidex-react/static/js/main.f2eca353.chunk.js",
+    "main.js.map": "/digidex-react/static/js/main.f2eca353.chunk.js.map",
+    "runtime-main.js": "/digidex-react/static/js/runtime-main.a7a5b12d.js",
+    "runtime-main.js.map": "/digidex-react/static/js/runtime-main.a7a5b12d.js.map",
+    "static/js/2.92b749a1.chunk.js": "/digidex-react/static/js/2.92b749a1.chunk.js",
+    "static/js/2.92b749a1.chunk.js.map": "/digidex-react/static/js/2.92b749a1.chunk.js.map",
+    "index.html": "/digidex-react/index.html",
+    "static/css/main.b3bc6fa3.chunk.css.map": "/digidex-react/static/css/main.b3bc6fa3.chunk.css.map",
+    "static/js/2.92b749a1.chunk.js.LICENSE.txt": "/digidex-react/static/js/2.92b749a1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/digidex-react/static/media/DigimonBasic.a9e7956a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a5b12d.js",
+    "static/js/2.92b749a1.chunk.js",
+    "static/css/main.b3bc6fa3.chunk.css",
+    "static/js/main.f2eca353.chunk.js"
+  ]
+}
